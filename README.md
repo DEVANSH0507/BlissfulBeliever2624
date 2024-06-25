@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BlissfulBeliever2624
+- 👋 Hi, I’m DEVANSH GUPTA
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c 
 - 💞️ I’m looking to collaborate for solving questions
